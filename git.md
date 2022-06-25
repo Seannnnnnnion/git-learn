@@ -36,4 +36,5 @@
 
 fix
 # 远程仓库
-`git remote add`
+`git remote add git-learn https://github.com/Seannnnnnnion/git-learn.git`
+`git push -u git-learn master`
