@@ -4,13 +4,18 @@
 `git status`  
 `git add .`  
 `git commit`  
-`git log`
-`git checkout`
-1.On branch master
-2.No commits yet
-3.Untracked files
+`git log -p`
+`git checkout -/+`
+# 几行句子
+- 1.On branch master
+- 2.No commits yet
+- 3.Untracked files
 
 # 三种状态
-- modified 
-- staged 
-- committed
+- modified 修改
+- staged 暂存
+- committed 提交
+
+# tag标签 
+
+`git tag -a`
