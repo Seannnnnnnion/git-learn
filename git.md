@@ -5,8 +5,12 @@
 `git add .`  
 `git commit`  
 `git log`
+`git checkout`
 1.On branch master
 2.No commits yet
 3.Untracked files
 
 # 三种状态
+- modified 
+- staged 
+- committed
