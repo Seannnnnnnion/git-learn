@@ -13,6 +13,7 @@
 `git log -p`
 `git log --oneline`
 `git checkout -/+`
+`git log --oneline --graph --all`
 
 # 三种状态
 - modified 修改
@@ -34,4 +35,5 @@
 123456789
 
 fix
-
+# 远程仓库
+`git remote add`
